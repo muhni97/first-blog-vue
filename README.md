@@ -23,3 +23,6 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# my-vue-blog.github.io" 
+"# muhni97.github.io" 
+"# vue-blog" 
+"# vue-blog" 
